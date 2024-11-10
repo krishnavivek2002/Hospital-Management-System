@@ -1,0 +1,131 @@
+/* Features.css */
+.full-page-container {
+  background-image: url("Upload_background.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #333;
+}
+
+  
+  .upload-section {
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  .upload-section h2 {
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .file-input {
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+    font-size: 16px;
+    border: 2px solid #6a11cb;
+    border-radius: 5px;
+    transition: border-color 0.3s;
+  }
+  
+  .file-input:hover {
+    border-color: #2575fc;
+  }
+  
+  .language-selection {
+    margin: 20px 0;
+  }
+  
+  .language-selection label {
+    font-weight: bold;
+  }
+  
+  .language-selection select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #6a11cb;
+    font-size: 16px;
+    width: 100%;
+    max-width: 200px;
+    transition: border-color 0.3s;
+  }
+  
+  .language-selection select:hover {
+    border-color: #2575fc;
+  }
+  
+  .image-preview img {
+    max-width: 100%;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .loading-text {
+    font-size: 18px;
+    color: #2575fc;
+  }
+  
+  .text-output {
+    margin-top: 20px;
+  }
+  
+  .text-output h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .text-output textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 2px solid #6a11cb;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .text-output textarea:focus {
+    outline: none;
+    border-color: #2575fc;
+  }
+  
+  .btn {
+    margin-top: 20px;
+    background-color: #2575fc;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #6a11cb;
+  }
+  
+  .btn-secondary {
+    background-color: #6a11cb;
+    margin-right: 10px;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #2575fc;
+  }
+  
+  .no-extraction {
+    color: #999;
+    font-style: italic;
+  }
+  

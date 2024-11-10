@@ -1,0 +1,181 @@
+{
+  "Header": {
+    "title": "SIMILIA-SUITE(Electronic Record Management)",
+    "paragraph": "A Distinctive Management Framework of Resources in a Homeopathy Clinic"
+  },
+"About": {
+  "paragraph": "The Homoeopathic Hospital Management System (HHMS) is a comprehensive and innovative solution designed to streamline operations and improve patient care in homoeopathic hospitals. Our system enables efficient management of patient records, prescriptions, inventory, and staff, all within an intuitive and user-friendly platform. With advanced features like AI-powered text extraction from prescriptions and intelligent summarization of previous patient records, HHMS empowers doctors and administrators to focus more on patient outcomes rather than administrative tasks.",
+  "Why": [
+    "Streamlined management of patient records",
+    "AI-powered text extraction from images",
+    "Automated summarization of patient history",
+    "Enhanced appointment scheduling and prescription management"
+  ],
+  "Why2": [
+    "Efficient inventory and staff management",
+    "Seamless department communication",
+    "User-friendly interface designed for doctors, patients, and administrators",
+    "Optimized for homoeopathic hospital workflows"
+  ]
+},
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Patient Record Management",
+      "text": "Efficiently manage patient records with digital storage, allowing easy access to patient histories and up-to-date health information."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Prescription Management",
+      "text": "Seamlessly create, update, and manage prescriptions, ensuring accurate medication tracking and access for future reference."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Appointment Scheduling",
+      "text": "Easily schedule and manage patient appointments, keeping both doctors and patients organized and on time."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Diagnostic Results",
+      "text": "Quickly access and review diagnostic test results, enabling timely medical decisions and personalized treatment plans."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "AI-powered Text Extraction",
+      "text": "Use AI to extract text from uploaded images like handwritten prescriptions, making data entry faster and more accurate."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Inventory Management",
+      "text": "Monitor and manage inventory effectively to ensure essential medications and equipment are always available."
+    }
+]
+,
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"The service was fantastic! I felt well taken care of and the staff was incredibly attentive. Looking forward to more improvements in the wait time.\"",
+      "name": "MS Dhoni"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"A seamless experience from start to finish. The team was professional and caring. Perhaps more frequent appointment reminders would be helpful.\"",
+      "name": "Rohit Sharma"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Excellent support and guidance throughout the process. I appreciate the dedication of the staff. Adding a feedback loop post-appointment could be beneficial.\"",
+      "name": "Virat Kholi"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Very organized and supportive. The environment was welcoming, and all my queries were answered. Maybe extending consultation hours would add more convenience.\"",
+      "name": "Smriti Mandhana"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Top-notch service with a personal touch. The team made me feel at ease and was very knowledgeable. A faster check-in process could enhance the experience further.\"",
+      "name": "Hardik Pandya"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Highly satisfied with the service provided. Every step was well-explained, and I felt valued. Additional online resources might help patients stay informed.\"",
+      "name": "Ellyse Perry"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Y V Krishna Vivek",
+      "job": "Full Stack AI Developer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Saran Sudheer",
+      "job": "Developer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Inian Kaviyanban A V",
+      "job": "Developer"
+    }
+  ],
+  "Contact": {
+    "address": "Muralinagar, Visakhapatnam.",
+    "phone": "+917989490719",
+    "email": "krishnnavivekyarrakula2002@gmail.com",
+    "facebook": "fb.com",
+    "": "twitter.com",
+    "linkdin": "https://www.linkedin.com/in/krishna-vivek-259421255/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Doctor-Patient Communication",
+      "text": "Facilitate seamless communication between doctors and patients, ensuring clear understanding of treatment plans and follow-up care."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Efficient Notifications",
+      "text": "Automated notifications for appointments, prescription renewals, and important hospital updates, keeping everyone informed and on schedule."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Collaboration Between Departments",
+      "text": "Enable smooth communication and collaboration across different hospital departments to improve operational efficiency and patient care."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "AI-Powered Solutions",
+      "text": "Leverage AI technologies to enhance medical decision-making, from summarizing patient records to extracting data from images."
+    }
+]
+
+}
